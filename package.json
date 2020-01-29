@@ -1,0 +1,25 @@
+{
+  "name": "ScrappingPromotion",
+  "version": "1.0.0",
+  "description": "Bank Mega Promotion Web Scrapping",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukmabrahmantya/ScrappingPromotion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukmabrahmantya/ScrappingPromotion/issues"
+  },
+  "homepage": "https://github.com/sukmabrahmantya/ScrappingPromotion#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "nightmare": "^3.0.2"
+  }
+}
